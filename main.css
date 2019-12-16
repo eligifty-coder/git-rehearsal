@@ -1,0 +1,9 @@
+.child:nth-of-type(2){
+   background: blue;
+}
+.child:nth-of-type(4){
+   color: hotpink;
+}
+.child-first p:nth-of-type(2){
+   background: green;
+}
